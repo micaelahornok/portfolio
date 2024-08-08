@@ -37,6 +37,7 @@
   - **Exploratory Data Analysis (EDA):** Addressed key questions about average PM2.5 levels by country, variations by year, and geographic distribution of pollution levels.
   - **Data Analysis:** Utilized advanced SQL queries to calculate average PM2.5 levels, track changes over time, and identify countries with significant increases or decreases in pollution levels.
   - **Data Visualization:** Developed interactive visualizations in Tableau, including a color-coded map, line graph, and bar chart to effectively present trends, comparisons, and insights.
+
 ### Screenshots of the Interactive Dashboard
 ![Screen Shot 2024-08-08 at 2 39 43 PM](https://github.com/user-attachments/assets/2e4962c8-6aea-4b96-a17c-20c5682d2585)![Screen Shot 2024-08-08 at 2 42 22 PM](https://github.com/user-attachments/assets/1d4ad542-caf8-42e3-9d09-b70c48e73c7f)
 
