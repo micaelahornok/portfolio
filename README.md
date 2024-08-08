@@ -1,6 +1,7 @@
 # My Projects
 
 ## Comprehensive US Sales Analysis and Dashboard
+--- 
 ### Overview
 
   - This project involves a detailed analysis of US regional sales data to uncover actionable insights and trends. The goal was to understand sales patterns, channel performance, and profitability by performing data cleaning, exploration, and visualization. The analysis aimed to provide strategic insights into sales performance and optimize decision-making processes.
@@ -18,11 +19,12 @@
  ![Screen Shot 2024-08-08 at 1 44 43 PM](https://github.com/user-attachments/assets/a2b67a99-8ce5-49c5-860b-680a0a5e51f7)
 
 ### Links
-[**GitHub Repository**](https://github.com/micaelahornok/sales-analysis/blob/main/README.md)
+- [**GitHub Repository**](https://github.com/micaelahornok/sales-analysis/blob/main/README.md)
 
-[**Interactive Dashboard**](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing)
+- [**Interactive Dashboard**](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing)
 
 ## Global Air Pollution Analysis and Dashboard
+---
 ### Overview
 
   - This project analyzes historical air quality data from 2010 to 2017 for 240 countries, focusing on PM2.5 (fine particulate matter). The goal is to identify trends, visualize patterns, and understand variations in global air pollution across different countries and time periods.
@@ -40,6 +42,5 @@
 
 
 ### Links
-   [**GitHub Repository**](https://github.com/micaelahornok/global-air-pollution-analysis/blob/main/README.md)
-   
-   [**Interactive Dashboard**](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [**GitHub Repository**](https://github.com/micaelahornok/global-air-pollution-analysis/blob/main/README.md)
+  - [**Interactive Dashboard**](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
