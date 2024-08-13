@@ -20,7 +20,6 @@
 
 ### Links
 - [**GitHub Repository**](https://github.com/micaelahornok/sales-analysis/blob/main/README.md)
-
 - [**Interactive Dashboard**](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing)
 
 ## Global Air Pollution Analysis and Dashboard
